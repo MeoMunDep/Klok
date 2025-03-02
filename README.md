@@ -101,7 +101,17 @@ privatekey
 
 _Note: Each row for each account_
 
-### 4. `proxies.txt` - 🌐 Proxy List (Optional)
+### 2.1 `messages.txt` - 🗂️ User Data
+
+- Just random questions to ask AI.
+
+```txt
+abcxyz
+abcxyz
+abcxyz
+```
+
+### 3. `proxies.txt` - 🌐 Proxy List (Optional)
 
 If you are using proxies, add them here. Leave the file blank if you are not using proxies. Supported formats:
 
