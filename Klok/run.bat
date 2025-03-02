@@ -71,7 +71,7 @@ if not exist datas.txt (
     type nul > datas.txt
     echo Created datas.txt
 )
-if not exist wallets.txt (
+if not exist messages.txt (
     type nul > wallets.txt
     echo Created wallets.txt
 )
