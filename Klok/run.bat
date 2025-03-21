@@ -2,102 +2,33 @@
 title Klok Bot by @MeoMunDep
 color 0A
 
-cd ..
-if exist node_modules (
-    echo Found node_modules in parent directory
-    cd %~dp0
-) else (
-    cd %~dp0
-    echo node_modules not found in parent directory
-)
+cd %~dp0
 
-:MENU
-cls
-echo =================================================================
-echo    Klok BOT SETUP AND RUN SCRIPT by @MeoMunDep
-echo =================================================================
-echo.
-echo Current directory: %CD%
-echo Parent node_modules: %~dp0..\node_modules
-echo.
-echo 1. Install/Update Node.js Dependencies
-echo 2. Create/Edit Configuration Files
-echo 3. Run the Bot
-echo 4. Exit
-echo.
-set /p choice="Enter your choice (1-4): "
+echo Checking configuration files...
 
-if "%choice%"=="1" goto INSTALL
-if "%choice%"=="2" goto CONFIG
-if "%choice%"=="3" goto RUN
-if "%choice%"=="4" goto EXIT
+(for %%F in (datas.txt proxies.txt) do (
+    if not exist %%F (
+        type nul > %%F
+        echo Created %%F
+    )
+))
 
-:INSTALL
-cls
-echo Checking node_modules location...
+echo Configuration files checked.
+
+echo Checking dependencies...
 if exist "..\node_modules" (
+    echo Using node_modules from parent directory...
     cd ..
-    echo Installing/Updating dependencies in parent directory...
-    npm install user-agents axios colors p-limit https-proxy-agent socks-proxy-agent uuid 
+    CALL npm install user-agents axios colors https-proxy-agent socks-proxy-agent ethers web3 
     cd %~dp0
 ) else (
     echo Installing dependencies in current directory...
-    npm install user-agents axios colors p-limit https-proxy-agent socks-proxy-agent uuid 
+    CALL npm install user-agents axios colors https-proxy-agent socks-proxy-agent ethers web3 
 )
-echo.
 echo Dependencies installation completed!
-pause
-goto MENU
 
-:CONFIG
-cls
-echo Creating configuration files...
-
-if not exist configs.json (
-    echo {> configs.json
-    echo   "timeZone": "en-US",>> configs.json
-    echo   "rotateProxy": false,>> configs.json
-    echo   "skipInvalidProxy": false,>> configs.json
-    echo   "proxyRotationInterval": 2,>> configs.json
-    echo   "delayEachAccount": [5, 8],>> configs.json
-    echo   "timeToRestartAllAccounts": 300,>> configs.json
-    echo   "howManyAccountsRunInOneTime": 100,>> configs.json
-    echo   "referralCode": "MN46XY2Q">> configs.json
-    echo }>> configs.json
-    echo Created configs.json
-)
-
-if not exist datas.txt (
-    type nul > datas.txt
-    echo Created datas.txt
-)
-if not exist messages.txt (
-    type nul > wallets.txt
-    echo Created wallets.txt
-)
-if not exist proxies.txt (
-    type nul > proxies.txt
-    echo Created proxies.txt
-)
-
-echo.
-echo Configuration files have been created/checked.
-echo Please edit the files with your data before running the bot.
-echo.
-pause
-goto MENU
-
-:RUN
-cls
 echo Starting the bot...
-if exist "..\node_modules" (
-    echo Using node_modules from parent directory
-) else (
-    echo Using node_modules from current directory
-)
 node meomundep
-pause
-goto MENU
 
-:EXIT
+pause
 exit
