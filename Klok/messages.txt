@@ -930,3 +930,108 @@ Bagaimana projek mengurus inflasi token?
 ¿Qué es un faucet de criptomonedas?  
 ¿Qué es un token rebasing?  
 ¿Cómo manejan los proyectos la inflación?  
+**Portuguese**  
+O que é uma criptomoeda?  
+O que é a tecnologia blockchain?  
+Como o Bitcoin funciona?  
+Qual a diferença entre Bitcoin e Ethereum?  
+O que são contratos inteligentes?  
+O que é uma exchange descentralizada (DEX)?  
+Como as carteiras de criptomoedas funcionam?  
+O que é uma chave privada?  
+O que é uma chave pública?  
+O que é staking?  
+O que é yield farming?  
+Qual a diferença entre Proof of Work e Proof of Stake?  
+O que é um NFT?  
+Como os impostos são aplicados às criptos?  
+O que é uma stablecoin?  
+O que é um rug pull?  
+O que é um DAO?  
+O que é DeFi?  
+Qual a importância das taxas de gás na Ethereum?  
+O que é um hard fork?  
+O que é um soft fork?  
+O que é um airdrop?  
+Como proteger suas criptos?  
+O que é cold storage?  
+O que é uma seed phrase?  
+Como comprar criptomoedas?  
+O que é uma exchange de criptomoedas?  
+Como ler gráficos de candlestick?  
+O que é o market cap?  
+Qual é o papel dos mineradores no blockchain?  
+Qual a diferença entre moeda e token?  
+O que é liquidez?  
+O que é perda impermanente?  
+Como funcionam as plataformas de empréstimos cripto?  
+O que é WBTC?  
+O que é um ICO?  
+O que é a queima de tokens?  
+O que é um ataque de 51%?  
+O que é uma memecoin?  
+Como criar seu próprio token?  
+O que é uma gas war em NFT minting?  
+Como o Layer 2 melhora a escalabilidade da Ethereum?  
+O que é zk-rollup?  
+O que é a Lightning Network?  
+O que é arbitragem em cripto?  
+O que é o halving do Bitcoin?  
+O que é um validador no blockchain?  
+O que é interoperabilidade entre chains?  
+Como ganhar criptos gratuitamente?  
+O que são jogos play-to-earn?  
+O que é um launchpad de cripto?  
+Para que serve um governance token?  
+O que é MetaMask?  
+O que é ERC-20?  
+O que é ERC-721?  
+Qual a diferença entre dados on-chain e off-chain?  
+O que é tokenomics?  
+O que é um crypto bridge?  
+O que um oráculo faz no blockchain?  
+O que é um flash loan?  
+O que é TVL (Total Value Locked)?  
+Qual a diferença entre CEX e DEX?  
+Como funciona um DAO?  
+O que é o whitepaper do Bitcoin?  
+Quem é Satoshi Nakamoto?  
+O que é tempo de bloco?  
+O que é nonce na mineração?  
+O que é hashing criptográfico?  
+O que é SHA-256?  
+O que é criptografia de curva elíptica?  
+O que é uma carteira multisig?  
+O que é uma cold wallet?  
+O que é uma custodial wallet?  
+O que é liquidity mining?  
+O que é APY em DeFi?  
+O que é gas token?  
+Como analisar um whitepaper de projeto?  
+O que é um whale em cripto?  
+Qual a diferença entre um mercado bull e bear?  
+O que é um esquema pump and dump?  
+O que significa imutabilidade no blockchain?  
+O que é uma Merkle tree?  
+O que é o bloco gênesis?  
+Qual a diferença entre staking e prover liquidez?  
+O que é front-running?  
+O que são Layer 1 e Layer 2?  
+O que é um nó no blockchain?  
+O que é mempool?  
+O que é sidechain?  
+O que são privacy coins?  
+Como funcionam os mixers em cripto?  
+O que é KYC em exchanges?  
+O que é AML?  
+Por que auditar contratos inteligentes é importante?  
+O que é um yield aggregator?  
+O que é identidade descentralizada?  
+Como os DAOs tomam decisões?  
+O que é uma proposta de governança?  
+O que é um parachain?  
+O que é slashing em staking?  
+O que é um faucet de criptomoedas?  
+O que é um rebasing token?  
+Como os projetos gerenciam a inflação?  
+Isso completa todas as perguntas.
