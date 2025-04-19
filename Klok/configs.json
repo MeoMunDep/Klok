@@ -1,0 +1,17 @@
+{
+  "rotateProxy": false,
+  "skipInvalidProxy": true,
+  "proxyRotationInterval": 2,
+  "delayEachAccount": [1, 1],
+  "timeToRestartAllAccounts": 300,
+  "howManyAccountsRunInOneTime": 1,
+
+  "captcha": {
+    "maxCaptchaAttempts": 20,
+    "waitTimeBetweenCaptchaAttempts": 15,
+    "2captchaApiKey": "",
+    "capSolverApiKey": ""
+  },
+
+  "referralCodes": ["MN46XY2Q"]
+}
