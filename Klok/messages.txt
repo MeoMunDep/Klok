@@ -519,3 +519,210 @@ What is a Merkle tree?
 What is zero-knowledge proof?  
 How is anonymity maintained in crypto?  
 What is the future of cryptocurrency?
+**Indonesian**  
+Apa itu teknologi blockchain?  
+Bagaimana cara kerja Bitcoin?  
+Apa perbedaan antara Bitcoin dan Ethereum?  
+Apa itu smart contract?  
+Apa itu pertukaran terdesentralisasi (DEX)?  
+Bagaimana dompet kripto bekerja?  
+Apa itu private key dalam kripto?  
+Apa itu public key dalam blockchain?  
+Apa itu staking dalam kripto?  
+Apa itu yield farming?  
+Apa perbedaan proof of stake dan proof of work?  
+Apa itu NFT?  
+Bagaimana pajak kripto di negara Anda?  
+Apa itu stablecoin?  
+Apa itu rug pull dalam kripto?  
+Apa itu DAO?  
+Apa itu DeFi?  
+Apa fungsi biaya gas di Ethereum?  
+Apa itu hard fork?  
+Apa itu soft fork dalam blockchain?  
+Apa itu airdrop kripto?  
+Bagaimana cara mengamankan aset kripto saya?  
+Apa itu cold storage dalam kripto?  
+Apa itu seed phrase?  
+Bagaimana cara membeli mata uang kripto?  
+Apa itu pertukaran kripto?  
+Bagaimana membaca grafik candlestick kripto?  
+Apa itu kapitalisasi pasar dalam kripto?  
+Apa peran penambang dalam blockchain?  
+Apa perbedaan antara koin dan token?  
+Apa itu likuiditas dalam perdagangan kripto?  
+Apa itu impermanent loss?  
+Bagaimana platform pinjaman kripto bekerja?  
+Apa itu Wrapped Bitcoin (WBTC)?  
+Apa itu ICO?  
+Apa itu pembakaran token?  
+Apa itu serangan 51%?  
+Apa itu memecoin?  
+Bagaimana cara membuat token kripto?  
+Apa itu gas war saat minting NFT?  
+Bagaimana solusi layer 2 membantu Ethereum?  
+Apa itu zk-rollup?  
+Apa itu Lightning Network?  
+Apa itu arbitrase kripto?  
+Apa itu halving dalam Bitcoin?  
+Apa itu validator dalam blockchain?  
+Apa itu interoperabilitas cross-chain?  
+Bagaimana cara mendapatkan kripto secara gratis?  
+Apa itu game play-to-earn?  
+Apa itu launchpad kripto?  
+Apa fungsi token tata kelola (governance)?  
+Apa itu MetaMask?  
+Apa itu standar ERC-20?  
+Apa itu standar ERC-721?  
+Apa perbedaan data on-chain dan off-chain?  
+Apa itu tokenomics?  
+Apa itu crypto bridge?  
+Bagaimana oracles bekerja dalam blockchain?  
+Apa itu flash loan dalam DeFi?  
+Apa itu TVL (Total Value Locked)?  
+Apa perbedaan CEX dan DEX?  
+Apa itu organisasi otonom terdesentralisasi (DAO)?  
+Apa itu whitepaper Bitcoin?  
+Siapa Satoshi Nakamoto?  
+Apa itu block time dalam blockchain?  
+Apa itu nonce dalam mining?  
+Apa itu hashing kriptografi?  
+Apa itu SHA-256?  
+Apa itu kriptografi kurva eliptik?  
+Apa itu dompet multi-signature?  
+Apa itu dompet perangkat keras?  
+Apa itu dompet kustodian?  
+Apa itu liquidity mining?  
+Apa itu APY dalam DeFi?  
+Apa itu gas token?  
+Bagaimana cara menganalisis whitepaper proyek kripto?  
+Apa itu whale dalam kripto?  
+Apa perbedaan tren bullish dan bearish?  
+Apa itu skema pump and dump?  
+Apa arti immutability dalam blockchain?  
+Apa itu Merkle tree?  
+Apa itu blok genesis?  
+Apa bedanya staking token dan penyediaan likuiditas?  
+Apa itu front-running dalam kripto?  
+Apa itu solusi layer 1 dan layer 2?  
+Apa itu node blockchain?  
+Apa itu mempool?  
+Apa itu sidechain?  
+Apa itu privacy coin?  
+Bagaimana cara kerja mixer dalam kripto?  
+Apa itu KYC di bursa kripto?  
+Apa itu kepatuhan AML?  
+Apa itu audit smart contract?  
+Apa itu yield aggregator?  
+Apa itu sistem identitas terdesentralisasi?  
+Bagaimana DAO mengambil keputusan?  
+Apa itu proposal tata kelola?  
+Apa itu parachain di Polkadot?  
+Apa itu slashing dalam staking?  
+Apa itu kripto faucet?  
+Apa itu rebasing token?  
+Bagaimana token kripto menangani inflasi?  
+
+**Russian**  
+Что такое технология блокчейн?  
+Как работает Биткойн?  
+В чем разница между Биткойном и Эфириумом?  
+Что такое смарт-контракты?  
+Что такое децентрализованная биржа (DEX)?  
+Как работают криптокошельки?  
+Что такое приватный ключ?  
+Что такое публичный ключ?  
+Что такое стейкинг в криптовалютах?  
+Что такое доходное фермерство (yield farming)?  
+Чем отличается Proof of Stake от Proof of Work?  
+Что такое NFT?  
+Как облагается налогом криптовалюта в вашей стране?  
+Что такое стабильные монеты (stablecoins)?  
+Что такое rug pull?  
+Что такое DAO?  
+Что такое DeFi?  
+Какова роль комиссии за газ в Ethereum?  
+Что такое хардфорк?  
+Что такое софтфорк?  
+Что такое airdrop?  
+Как защитить свои криптоактивы?  
+Что такое холодное хранение?  
+Что такое seed-фраза?  
+Как купить криптовалюту?  
+Что такое криптовалютная биржа?  
+Как читать свечной график криптовалют?  
+Что такое рыночная капитализация криптовалюты?  
+Какова роль майнеров в блокчейне?  
+Чем отличается coin от token?  
+Что такое ликвидность в криптоторговле?  
+Что такое временные потери (impermanent loss)?  
+Как работают платформы криптокредитования?  
+Что такое Wrapped Bitcoin (WBTC)?  
+Что такое ICO?  
+Что такое сжигание токенов?  
+Что такое атака 51%?  
+Что такое мемкойны?  
+Как создать собственный криптотокен?  
+Что такое gas war при выпуске NFT?  
+Как решения второго уровня помогают Ethereum?  
+Что такое zk-rollup?  
+Что такое Lightning Network?  
+Что такое криптоарбитраж?  
+Что такое халвинг у Биткойна?  
+Кто такой валидатор в блокчейне?  
+Что такое кросс-чейн взаимодействие?  
+Как заработать крипту бесплатно?  
+Что такое play-to-earn игры?  
+Что такое криптолаунчпад?  
+Какова роль governance токенов?  
+Что такое MetaMask?  
+Что такое стандарт ERC-20?  
+Что такое стандарт ERC-721?  
+В чем разница между on-chain и off-chain данными?  
+Что такое токеномика?  
+Что такое криптомост?  
+Как работают оракулы в блокчейне?  
+Что такое flash loan в DeFi?  
+Что такое TVL (Total Value Locked)?  
+В чем разница между централизованной и децентрализованной биржей?  
+Что такое DAO?  
+Что такое whitepaper Биткойна?  
+Кто такой Сатоши Накамото?  
+Что такое время блока?  
+Что такое nonce в майнинге?  
+Что такое криптографический хеш?  
+Что такое SHA-256?  
+Что такое эллиптическая криптография?  
+Что такое мультиподпись в кошельках?  
+Что такое аппаратный кошелек?  
+Что такое кастодиальный кошелек?  
+Что такое добыча ликвидности?  
+Что такое APY в DeFi?  
+Что такое gas токены?  
+Как анализировать whitepaper криптопроекта?  
+Кто такие криптокиты (whales)?  
+В чем разница между бычьим и медвежьим рынком?  
+Что такое схема pump and dump?  
+Что значит неизменность блокчейна?  
+Что такое дерево Меркла?  
+Что такое генезис-блок?  
+Чем отличается стейкинг токенов от предоставления ликвидности?  
+Что такое front-running в крипте?  
+В чем разница между layer 1 и layer 2?  
+Что такое нода блокчейна?  
+Что такое mempool?  
+Что такое сайдчейн?  
+Что такое приватные монеты?  
+Как работают миксеры в криптовалюте?  
+Что такое KYC на криптобирже?  
+Что такое AML-соблюдение?  
+Что такое аудит смарт-контрактов?  
+Что такое агрегатор доходности?  
+Что такое децентрализованные идентичности?  
+Как DAO принимает решения?  
+Что такое предложение по управлению?  
+Что такое парачейн в Polkadot?  
+Что такое slashing в стейкинге?  
+Что такое крипто-фосет?  
+Что такое ребейсинг токены?  
+Как криптовалюты справляются с инфляцией?  
