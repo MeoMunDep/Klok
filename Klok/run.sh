@@ -71,7 +71,7 @@ print_green "Configuration files have been checked."
 
 print_yellow "Checking dependencies..."
 cd "$MODULES_DIR"
-npm install user-agents axios colors https-proxy-agent socks-proxy-agent ethers web3 
+npm install user-agents axios colors https-proxy-agent socks-proxy-agent ethers web3 crypto-js 
 cd - > /dev/null
 print_green "Dependencies installation completed!"
 
