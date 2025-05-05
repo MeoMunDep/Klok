@@ -7,7 +7,6 @@ NC='\033[0m'
 
 echo -ne "\033]0;Klok Bot by @MeoMunDep\007"
 
-
 print_green() {
     echo -e "${GREEN}$1${NC}"
 }
@@ -39,13 +38,6 @@ create_default_configs() {
   "delayEachAccount": [1, 1],
   "timeToRestartAllAccounts": 300,
   "howManyAccountsRunInOneTime": 1,
-
-  "captcha": {
-    "maxCaptchaAttempts": 20,
-    "waitTimeBetweenCaptchaAttempts": 15,
-    "2captchaApiKey": "",
-    "capSolverApiKey": ""
-  },
 
   "referralCodes": ["MN46XY2Q"]
 }
