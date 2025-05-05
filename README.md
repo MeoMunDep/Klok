@@ -73,13 +73,6 @@ This file controls the bot’s behavior. Below is an example configuration:
   "timeToRestartAllAccounts": 300,
   "howManyAccountsRunInOneTime": 1,
 
-  "captcha": {
-    "maxCaptchaAttempts": 20,
-    "waitTimeBetweenCaptchaAttempts": 15,
-    "2captchaApiKey": "",
-    "capSolverApiKey": ""
-  },
-
   "referralCodes": ["MN46XY2Q"]
 }
 ```
@@ -92,10 +85,6 @@ This file controls the bot’s behavior. Below is an example configuration:
   - `timeToRestartAllAccounts`: Time (in seconds) to restart all accounts.
   - `howManyAccountsRunInOneTime`: Number of accounts to run simultaneously.
   - `referralCode`: Add your referral code (optional). Do not change it if you want to support me ^^
-  - `maxCaptchaAttempts`: Maximum number of attempts to poll for a captcha solution from 2Captcha or CapSolver. Higher values increase the chance of success but may take longer.
-  - `waitTimeBetweenCaptchaAttempts`: Time (in seconds) to wait between polling attempts for a captcha solution. Recommended to be at least 15 seconds to avoid overwhelming the captcha service.
-   - `2captchaApiKey`: API key for the 2Captcha service. Required for solving captchas using 2Captcha. Leave empty to skip 2Captcha and try CapSolver.
-   - `capSolverApiKey`: API key for the CapSolver service. Used as a fallback if 2Captcha fails or if no 2Captcha key is provided. Leave empty if not using CapSolver.
 
 ### 2. `privateKeys.txt` - 🗂️ User Data
 
