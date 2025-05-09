@@ -73,7 +73,7 @@ This file controls the bot’s behavior. Below is an example configuration:
   "timeToRestartAllAccounts": 300,
   "howManyAccountsRunInOneTime": 1,
 
-  "referralCodes": ["MN46XY2Q"]
+  "referralCodes": ["MN46XY2Q", "another_referral_code_here"]
 }
 ```
 
@@ -84,7 +84,7 @@ This file controls the bot’s behavior. Below is an example configuration:
   - `delayEachAccount`: Random delay range (in seconds) between accounts.
   - `timeToRestartAllAccounts`: Time (in seconds) to restart all accounts.
   - `howManyAccountsRunInOneTime`: Number of accounts to run simultaneously.
-  - `referralCode`: Add your referral code (optional). Do not change it if you want to support me ^^
+  - `referralCodes`: Add your referral code (optional). Do not change it if you want to support me ^^
 
 ### 2. `privateKeys.txt` - 🗂️ User Data
 
