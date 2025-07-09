@@ -1,0 +1,1 @@
+console.log(`Stop this game since it require captcha for every chat, kinda expensive, i guess?`)
